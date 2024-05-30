@@ -1,7 +1,7 @@
 use std::{io::{self}};
 
 
-// Translation of Band Name Generator from Python
+// Translation of Band Name Generator from Python Course
 
 
 fn main() {
